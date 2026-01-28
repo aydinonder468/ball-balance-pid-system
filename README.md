@@ -42,9 +42,14 @@ Unlike traditional setups, this project implements the **PID Control Algorithm d
 ## 📸 Demo / Visuals
 
 ### System Views
-![Görünüş 1](./Ball_Balance_Project/images/p4.1.jpeg)
-![Görünüş 2](./Ball_Balance_Project/images/p4.2.jpeg)
-![Görünüş 3](./Ball_Balance_Project/images/p4.3.jpeg)
+<table>
+  <tr>
+    <td><img src="./Ball_Balance_Project/images/p4.1.jpeg" width="300"></td>
+    <td><img src="./Ball_Balance_Project/images/p4.2.jpeg" width="300"></td>
+    <td><img src="./Ball_Balance_Project/images/p4.3.jpeg" width="300"></td>
+  </tr>
+</table>
+
 ## 📂 Project Structure
 ```bash
 ├── /arduino_firmware   # Simple serial listener code
