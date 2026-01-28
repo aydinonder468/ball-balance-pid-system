@@ -37,7 +37,7 @@ Unlike traditional setups, this project implements the **PID Control Algorithm d
 2.  **Calculation:** The Python script compares the position to the setpoint, runs the PID algorithm, and computes the required servo angles.
 3.  **Communication:** These angles are sent to the Arduino via USB Serial.
 4.  **Actuation:** Arduino receives the data and immediately moves the servo motors to the target position to balance the plate.
-
+![Sistem Görüntüsü](images/p4.1.jpg)
 ## 📂 Project Structure
 ```bash
 ├── /arduino_firmware   # Simple serial listener code
